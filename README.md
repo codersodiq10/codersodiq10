@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**codersodiq10/codersodiq10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I’m Muhammadsodiq Olimjonov
 
-Here are some ideas to get you started:
+💻 Python Developer  
+🚀 Vibe Coder  
+📱 Android & Web Enthusiast  
+⚙️ Backend & Desktop App Explorer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building useful software, turning ideas into working products, and learning through real projects.
+
+## Skills
+- Python
+- Android app ideas & development
+- Web development
+- Backend services
+- Windows desktop apps (.exe)
+- APK packaging concepts
+
+## Interests
+- AI-assisted development
+- Automation
+- Product building
+- Learning by creating
+
+Thanks for visiting my profile! 🌟
